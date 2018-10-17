@@ -1,8 +1,8 @@
-#Glen Sale
-##My-porfolio
+# Glen Sale
+## My-porfolio
 ### Created a index.html using bootstraps, custom style.css
 
-##Set Up Instruction:
+## Set Up Instruction:
 #### 1.Created a new directory
 #### 2.Name new directory My-Porfolio
 #### 3. Inside My-porfolio I created a new folder css and img
@@ -15,6 +15,6 @@
 #### 10. Double check syntax for errors
 #### 11. Don't forget to create new commits regulary!
 
-#For more LINK to GifHub https://github.com/glenpogz36/My-porfolio  
+# For more LINK to GifHub https://github.com/glenpogz36/My-porfolio  
 
-###Copyright@2018
+### Copyright@2018
