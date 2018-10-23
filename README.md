@@ -16,5 +16,6 @@
 #### 11. Don't forget to create new commits regulary!
 
 # For more LINK to GifHub https://github.com/glenpogz36/My-porfolio  
+# Live : https://glenpogz36.github.io/Myporfolio/
 
-### Copyright@2018
+### Copyright@2018 @Epicodus
