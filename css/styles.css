@@ -15,7 +15,7 @@ html, body{
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    overflow-y auto;
+    overflow-y: auto;
 }
 .nav {
   width: 350px;
@@ -136,7 +136,7 @@ font-family: verdena;
 font-size: 20px;
 }
 .panel-title{
-  font-size: 50px;
+  font-size: 50px;r
 }
 .row li{
   font-size: 50px;
@@ -159,4 +159,25 @@ font-size: 20px;
 #blue{
   font-family: cursive;
   color: blue;
+}
+.jumbotron{
+  position: absolute;
+  right: 100px;;
+  top: 10%;
+  padding-left: 100px;
+  background: skyblue;
+}
+.row2{
+  position: absolute;
+  right: 20%;
+  bottom: 30%;
+  width: 50%;
+}
+.row2 ul{
+font-size: 15px;
+}
+h1{
+  font-size: 60px;
+  font-weight: bold;
+  color: skyblue;
 }
